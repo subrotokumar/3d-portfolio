@@ -356,7 +356,7 @@ const projects = [
   {
     name: "NYX: NFT Gallery",
     description:
-      "Web-based platform that allows users to search, book, and manage car rentals from various providers, providing a convenient and efficient solution for transportation needs.",
+      "Mobile application that allows users to view and explore their non-fungible tokens (NFTs) collection. NFTs are unique digital assets that are verified on a blockchain network, such as Ethereum.",
     tags: [
       {
         name: "flutter",
